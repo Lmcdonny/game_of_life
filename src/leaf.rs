@@ -13,4 +13,15 @@ impl Leaf {
     }
   }
 
+  fn photosynthesize(self) {
+
+  }
+
+  pub fn kill(mut self) {
+
+  }
+}
+
+pub fn build_leaf() {
+  
 }
